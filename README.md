@@ -2,20 +2,39 @@
 
 ## Survey
 
+- Allamanis M, Barr E T, Devanbu P, et al. [A Survey of Machine Learning for Big Code and Naturalness](https://dl.acm.org/doi/pdf/10.1145/3212695). ACM Computing Surveys (CSUR), 2018.
+
 - Gros D, Sezhiyan H, Devanbu P, et al. [Code to Comment “Translation”: Data, Metrics, Baselining & Evaluation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286030), ASE 2020.
+
+- Liu C, Xia X, Lo D, et al. [Opportunities and Challenges in Code Search Tools](https://arxiv.org/pdf/2011.02297.pdf). ACM Computing Surveys (CSUR), 2021.
 
 ## Text to Code
 
 ### Code Search
+
+- Gu X, Zhang H, Kim S. [Deep Code Search](https://www.researchgate.net/profile/Hongyu-Zhang-46/publication/325732005_Deep_code_search/links/5b29dcfb4585150c633faa57/Deep-code-search.pdf), ICSE 2018.
+
+- Sachdev S, Li H, Luan S, et al. [Retrieval on Source Code: A Neural Code Search](https://research.fb.com/wp-content/uploads/2021/04/Retrieval-on-Source-Code-A-Neural-Code-Search.pdf), MAPL 2018.
+
+- Luan S, Yang D, Barnaby C, et al. [Aroma: Code recommendation via structural code search](https://dl.acm.org/doi/pdf/10.1145/3360578). Proceedings of the ACM on Programming Languages, 2019.
+
+- Cambronero J, Li H, Kim S, et al. [When Deep Learning Met Code Search](https://dl.acm.org/doi/pdf/10.1145/3338906.3340458), ESEC/FSE 2019.
+
 
 ### Natural Language to Code
 
 #### Text to Code
 - Yin P, Neubig G. [**TRANX**: A transition-based neural abstract syntax parser for semantic parsing and code generation](https://aclanthology.org/D18-2002.pdf), EMNLP 2018.
 
-- 
+- Sun Z, Zhu Q, Xiong Y, et al. [TreeGen: A Tree-Based Transformer Architecture for Code Generation](https://ojs.aaai.org/index.php/AAAI/article/view/6430/6286), AAAI 2020.
 
 #### Text to SQL
+
+- Zhong V, Xiong C, Socher R. [Seq2SQL: Generating Structured Queries From Natural Language Using Reinforcement Learning](https://arxiv.org/pdf/1709.00103), 2017.
+
+- Xu X, Liu C, Song D. [SQLNet: Generating Structured Queries From Natural Language Without Reinforcement Learning](https://openreview.net/pdf?id=SkYibHlRb). ICLR 2018.
+
+- Yu T, Li Z, Zhang Z, et al. [TypeSQL: Knowledge-Based Type-Aware Neural Text-to-SQL Generation](https://www.aclweb.org/anthology/N18-2093.pdf), NAACL 2018.
 
 ## Code to code
 
@@ -41,7 +60,9 @@
 - Wan Y, Zhao Z, Yang M, et al. [Improving automatic source code summarization via deep reinforcement learning](https://arxiv.org/pdf/1811.07234), ASE 2018.
 
 
-## Pretrained Models
+## Code Representation and Pretrained Models
+
+- Karampatsis R M, Babii H, Robbes R, et al. [Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code](https://dl.acm.org/doi/pdf/10.1145/3377811.3380342) ICSE 2020.
 
 - Karampatsis R M, Sutton C. [**SCELMo**: Source Code Embeddings from Language Models](https://arxiv.org/pdf/2004.13214.pdf), 2020.
 
@@ -63,13 +84,6 @@
 
 - Jung T H. [**CommitBERT**: Commit Message Generation Using Pre-Trained Programming Language Model](https://arxiv.org/pdf/2105.14242), 2021.
 
-## Datasets
-
-- Ahmad W U, Tushar M G R, Chakraborty S, et al. [**AVATAR**: A Parallel Corpus for Java-Python Program Translation](https://arxiv.org/pdf/2108.11590), 2021.
-- Puri R, Kung D S, Janssen G, et al. [**CodeNet**: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://openreview.net/pdf?id=6vZVBkCDrHT), NeurIPS 2021.
-
-- LeClair A, McMillan C. [Recommendations for Datasets for Source Code Summarization](https://www.aclweb.org/anthology/N19-1394.pdf), NAACL 2019.
-
 ## Metrics and Estimation
 
 - Papineni K, Roukos S, Ward T, et al. [**BLEU**: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf), ACL 2002.
@@ -80,7 +94,20 @@
 
 - Agarwal M, Talamadupula K, Houde S, et al. [Quality Estimation & Interpretability for Code Translation](https://openreview.net/pdf?id=U7-z8CD2nYg), NeurIPS 2020 Workshop on Computer-Assisted Programming.
 
-## Benchmark
+## Datasets and Benchmark
 
 - Lu S, Guo D, Ren S, et al.
-[**CodeXGLUE**: A Machine Learning Benchmark Dataset for Code Understanding and Generation](https://arxiv.org/pdf/2102.04664.pdf), 2021. https://github.com/microsoft/CodeXGLUE.
+[**CodeXGLUE**: A Machine Learning Benchmark Dataset for Code Understanding and Generation](https://arxiv.org/pdf/2102.04664.pdf), 2021. 
+
+- Ahmad W U, Tushar M G R, Chakraborty S, et al. [**AVATAR**: A Parallel Corpus for Java-Python Program Translation](https://arxiv.org/pdf/2108.11590), 2021.
+- Puri R, Kung D S, Janssen G, et al. [**CodeNet**: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://openreview.net/pdf?id=6vZVBkCDrHT), NeurIPS 2021.
+
+- LeClair A, McMillan C. [Recommendations for Datasets for Source Code Summarization](https://www.aclweb.org/anthology/N19-1394.pdf), NAACL 2019.
+
+- Husain H, Wu H H, Gazit T, et al. [CodeSearchNet Challenge: Evaluating the State of Semantic Code Search](https://arxiv.org/pdf/1909.09436.pdf). 2019.
+
+- Hu X, Li G, Xia X, et al. [Summarizing source code with transferred API knowledge](https://www.ijcai.org/Proceedings/2018/0314.pdf), IJCAI 2018.
+
+- Miceli-Barone A V, Sennrich R. [A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation](https://www.aclweb.org/anthology/I17-2053.pdf), IJCNLP 2017.
+
+- Yu T, Zhang R, Yang K, et al. [Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task](https://www.aclweb.org/anthology/D18-1425.pdf), EMNLP 2018.
