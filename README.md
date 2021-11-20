@@ -1,5 +1,9 @@
 # Code Intelligence Papers
 
+Code intelligence is a cross-research field combined with machine learning and software engineering. Since the large-scale pre-trained language models(PLMs) have achieved amazing improvement in the NLP area, researchers were trying to migrate PLMs from natural language to programming language. [GPT-3](https://openai.com/) shown the ability to automatic programming followed by human instructions([CodeX](https://openai.com/blog/openai-codex/)) and Github proposed the [Copilot](https://copilot.github.com/) tools to help developers, the Code intelligence area gradually emerging and reflecting the commercial value.
+
+In this repository, I collect a series of papers on code intelligence, including surveys, sub-area papers, pre-trained models, metrics, datasets, etc. Most of those papers are published on the top conference of AI or SE and attached with opensource code or data. Hope this list can help you to do further research.
+
 ## Survey
 
 - Allamanis M, Barr E T, Devanbu P, et al. [A Survey of Machine Learning for Big Code and Naturalness](https://dl.acm.org/doi/pdf/10.1145/3212695). ACM Computing Surveys (CSUR), 2018.
@@ -49,6 +53,10 @@
 - Collie B, Ginsbach P, Woodruff J, et al. [M3: Semantic api migrations](https://arxiv.org/pdf/2008.12118.pdf), ASE 2020.
 
 ### Code Completion
+
+### Code Repair
+
+### Code Clone Dectection
 
 ## Code to Text
 
