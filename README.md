@@ -38,14 +38,21 @@
 
 ## Code to code
 
-### Code Translation
+### Code Translation(Migration)
 
 #### API Mapping
 
+- Nguyen T D, Nguyen A T, Nguyen T N. [Mapping API Elements for Code Migration with Vector Representations](https://dl.acm.org/doi/pdf/10.1145/2889160.2892661), ICSE-C 2016.
+
+- [Bui N D Q, Yu Y, Jiang L. SAR: learning cross-language API mappings with little knowledge](https://arxiv.org/pdf/1906.03835), ESEC/FSE 2019.
+
+- Collie B, Ginsbach P, Woodruff J, et al. [M3: Semantic api migrations](https://arxiv.org/pdf/2008.12118.pdf), ASE 2020.
 
 ### Code Completion
 
 ## Code to Text
+
+- Alon U, Brody S, Levy O, et al. [code2seq: Generating Sequences from Structured Representations of Code](https://openreview.net/pdf?id=H1gKYo09tX), ICLR 2018.
 
 ### Code Summarization
 
@@ -59,6 +66,12 @@
 
 - Wan Y, Zhao Z, Yang M, et al. [Improving automatic source code summarization via deep reinforcement learning](https://arxiv.org/pdf/1811.07234), ASE 2018.
 
+### Code Captioning
+
+- Iyer S, Konstas I, Cheung A, et al. [Summarizing Source Code using a Neural Attention Model](https://aclanthology.org/P16-1195.pdf), ACL 2016.
+
+
+### Code Documentation
 
 ## Code Representation and Pretrained Models
 
@@ -111,3 +124,5 @@
 - Miceli-Barone A V, Sennrich R. [A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation](https://www.aclweb.org/anthology/I17-2053.pdf), IJCNLP 2017.
 
 - Yu T, Zhang R, Yang K, et al. [Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task](https://www.aclweb.org/anthology/D18-1425.pdf), EMNLP 2018.
+
+- Lin X V, Wang C, Zettlemoyer L, et al. [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](https://www.aclweb.org/anthology/L18-1491.pdf), LREC 2018.
