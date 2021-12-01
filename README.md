@@ -44,15 +44,35 @@ In this repository, I collect a series of papers on code intelligence, including
 
 ### Code Translation(Migration)
 
+- Nguyen A T, Nguyen T T, Nguyen T N. Lexical Statistical Machine Translation for Language Migration. ESEC/FSE 2013.
+
+- Karaivanov S, Raychev V, Vechev M. [Phrase-Based Statistical Translation of Programming Languages](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.706.9697&rep=rep1&type=pdf). Onward! 2014.
+
+- Nguyen A T, Nguyen T T, Nguyen T N. Divide-and-Conquer Approach for Multi-phase Statistical Migration for Source Code. ASE 2015.
+
+- Chen X, Liu C, Song D. [Tree-to-tree Neural Networks for Program Translation](https://proceedings.neurips.cc/paper/2018/file/d759175de8ea5b1d9a2660e45554894f-Paper.pdf). NIPS 2018.
+
+- Fu C, Chen H, Liu H, et al. [Coda: An End-to-End Neural Program Decompiler](https://proceedings.neurips.cc/paper/2019/file/093b60fd0557804c8ba0cbf1453da22f-Paper.pdf). NIPS 2019.
+
+- Shiv V, Quirk C. [Novel positional encodings to enable tree-based transformers](https://proceedings.neurips.cc/paper/2019/file/6e0917469214d8fbd8c517dcdc6b8dcf-Paper.pdf). NIPS 2019.
+
+- Weisz J D, Muller M, Houde S, et al. [Perfection Not Required? Human-AI Partnerships in Code Translation](https://arxiv.org/pdf/2104.03820.pdf). IUI 2021.
+
 #### API Mapping
 
 - Nguyen T D, Nguyen A T, Nguyen T N. [Mapping API Elements for Code Migration with Vector Representations](https://dl.acm.org/doi/pdf/10.1145/2889160.2892661), ICSE-C 2016.
+
+- Gu X, Zhang H, Zhang D, et al. [DeepAM: Migrate APIs with Multi-modal Sequence to Sequence Learning](https://www.ijcai.org/proceedings/2017/0514.pdf). IJCAI 2017.
+
+- Nguyen T D, Nguyen A T, Phan H D, et al. [Exploring API embedding for API usages and applications](https://www.researchgate.net/profile/Trong-Nguyen/publication/318576091_Exploring_API_Embedding_for_API_Usages_and_Applications/links/5bd1d34192851c9b86b88294/Exploring-API-Embedding-for-API-Usages-and-Applications.pdf). ICSE 2017.
 
 - [Bui N D Q, Yu Y, Jiang L. SAR: learning cross-language API mappings with little knowledge](https://arxiv.org/pdf/1906.03835), ESEC/FSE 2019.
 
 - Collie B, Ginsbach P, Woodruff J, et al. [M3: Semantic api migrations](https://arxiv.org/pdf/2008.12118.pdf), ASE 2020.
 
 ### Code Completion
+
+- Svyatkovskiy A, Deng S K, Fu S, et al. [IntelliCode Compose: Code Generation Using Transformer](https://arxiv.org/pdf/2005.08025.pdf). ESEC/FSE 2020.
 
 ### Code Repair
 
@@ -74,18 +94,19 @@ In this repository, I collect a series of papers on code intelligence, including
 
 - Wan Y, Zhao Z, Yang M, et al. [Improving automatic source code summarization via deep reinforcement learning](https://arxiv.org/pdf/1811.07234), ASE 2018.
 
-### Code Captioning
-
 - Iyer S, Konstas I, Cheung A, et al. [Summarizing Source Code using a Neural Attention Model](https://aclanthology.org/P16-1195.pdf), ACL 2016.
-
 
 ### Code Documentation
 
 ## Code Representation and Pretrained Models
 
+- Nguyen T T, Nguyen A T, Nguyen H A, et al. A Statistical Semantic Language Model for Source Code, ESEC/FSE 2013.
+
 - Karampatsis R M, Babii H, Robbes R, et al. [Big Code != Big Vocabulary: Open-Vocabulary Models for Source Code](https://dl.acm.org/doi/pdf/10.1145/3377811.3380342) ICSE 2020.
 
 - Karampatsis R M, Sutton C. [**SCELMo**: Source Code Embeddings from Language Models](https://arxiv.org/pdf/2004.13214.pdf), 2020.
+
+- Kanade A, Maniatis P, Balakrishnan G, et al. **CuBERT:**[Learning and Evaluating Contextual Embedding of Source Code](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf). ICML 2020.
 
 - Feng Z, Guo D, Tang D, et al. [**CodeBERT**: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139.pdf). Findings of EMNLP 2020.
 
@@ -121,7 +142,7 @@ In this repository, I collect a series of papers on code intelligence, including
 [**CodeXGLUE**: A Machine Learning Benchmark Dataset for Code Understanding and Generation](https://arxiv.org/pdf/2102.04664.pdf), 2021. 
 
 - Ahmad W U, Tushar M G R, Chakraborty S, et al. [**AVATAR**: A Parallel Corpus for Java-Python Program Translation](https://arxiv.org/pdf/2108.11590), 2021.
-- Puri R, Kung D S, Janssen G, et al. [**CodeNet**: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://openreview.net/pdf?id=6vZVBkCDrHT), NeurIPS 2021.
+- Puri R, Kung D S, Janssen G, et al. [**CodeNet**: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks](https://arxiv.org/pdf/2105.12655.pdf), NeurIPS 2021.
 
 - LeClair A, McMillan C. [Recommendations for Datasets for Source Code Summarization](https://www.aclweb.org/anthology/N19-1394.pdf), NAACL 2019.
 
