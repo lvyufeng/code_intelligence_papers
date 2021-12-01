@@ -126,6 +126,12 @@ In this repository, I collect a series of papers on code intelligence, including
 
 - Jung T H. [**CommitBERT**: Commit Message Generation Using Pre-Trained Programming Language Model](https://arxiv.org/pdf/2105.14242), 2021.
 
+- Peng D, Zheng S, Li Y, et al. **OSCAR**:[How could Neural Networks understand Programs?](https://arxiv.org/pdf/2105.04297.pdf). 2021.
+
+- Qi W, Gong Y, Yan Y, et al. [**ProphetNet-X**: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation](https://arxiv.org/pdf/2104.08006). 2021.
+
+- Wang X, Wang Y, Mi F, et al. [**SynCoBERT**: Syntax-Guided Multi-Modal Contrastive Pre-Training for Code Representation](https://arxiv.org/pdf/2108.04556). 2021.
+
 ## Metrics and Estimation
 
 - Papineni K, Roukos S, Ward T, et al. [**BLEU**: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040.pdf), ACL 2002.
