@@ -82,7 +82,9 @@ In this repository, I collect a series of papers on code intelligence, including
 
 - Alon U, Brody S, Levy O, et al. [code2seq: Generating Sequences from Structured Representations of Code](https://openreview.net/pdf?id=H1gKYo09tX), ICLR 2018.
 
-### Code Summarization
+### Code Summarization/Documentation
+
+- Li, Jia, et al. [EditSum: A Retrieve-and-Edit Framework for Source Code Summarization](https://xin-xia.github.io/publication/ase213.pdf), ASE 2021.
 
 - Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm. [GN-Transformer: Fusing Sequence and Graph Representation for Improved Code Summarization](https://arxiv.org/pdf/2111.08874), 2021.
 
@@ -95,8 +97,6 @@ In this repository, I collect a series of papers on code intelligence, including
 - Wan Y, Zhao Z, Yang M, et al. [Improving automatic source code summarization via deep reinforcement learning](https://arxiv.org/pdf/1811.07234), ASE 2018.
 
 - Iyer S, Konstas I, Cheung A, et al. [Summarizing Source Code using a Neural Attention Model](https://aclanthology.org/P16-1195.pdf), ACL 2016.
-
-### Code Documentation
 
 ## Code Representation and Pretrained Models
 
